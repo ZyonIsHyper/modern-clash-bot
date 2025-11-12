@@ -8,7 +8,7 @@
 
 ### 🛜 **Advanced Discord bot integration**
 
-## ⚙️ Commands
+  ## ⚙️ Commands
 
 - **Start or Stop the bot** - Using built in commands you are able to stop modern-clash-bot from playing
 - **Take screenshots** - See what modern-clash-bot is up to at the time of the screenshot
