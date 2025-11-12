@@ -4,12 +4,14 @@
 
 **For an instalation guide visit the original GitHub above**
 
-## ✨ Features
+## ✨ New Features
 
-### 🎮 **Battle Automation**
+### 🛜 **Advanced Discord bot integration**
 
-- **Trophy Road 1v1 Battles** - Automatically fight in trophy road ladder matches
-- **Path of Legends 1v1 Battles** - Battle in the competitive Path of Legends mode
+## ⚙️ Commands
+
+- **Start or Stop the bot** - Using built in commands you are able to stop modern-clash-bot from playing
+- **Take screenshots** - See what modern-clash-bot is up to at the time of the screenshot
 - **2v2 Battles** - Team up with clan members for 2v2 matches
 - **Random Decks** - Randomize your deck selection before each battle
 - **Smart Battle Management** - Skip fights when chests are full, disable win/loss tracking
