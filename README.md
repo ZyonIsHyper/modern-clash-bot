@@ -4,16 +4,13 @@
 
 **For an instalation guide visit the original GitHub above**
 
-
 ### 🛜 **Advanced Discord bot integration**
 
 ## ⚙️ Commands
 
-- **Start or Stop the bot** - Using built in commands you are able to stop modern-clash-bot from playing
+- **Start or Stop the bot** - You are able to stop modern-clash-bot from playing any more games with a simple command
 - **Take screenshots** - See what modern-clash-bot is up to at the time of the screenshot
-- **2v2 Battles** - Team up with clan members for 2v2 matches
-- **Random Decks** - Randomize your deck selection before each battle
-- **Smart Battle Management** - Skip fights when chests are full, disable win/loss tracking
+- **Many more** - There are many more commands that I dont feel like listing so
 
 ### 🎁 **Rewards & Collection**
 
