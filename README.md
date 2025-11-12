@@ -13,9 +13,3 @@
 ## ⚠️ Disclaimer
 
 This tool is designed for educational and automation purposes. Please ensure you comply with Clash Royale's Terms of Service and use responsibly. The developers are not responsible for any consequences resulting from the use of this software.
-
----
-
-**Made with ❤️ by the py-clash-bot community**
-
-_Automate your Clash Royale experience and focus on what matters most - strategy and fun!_
