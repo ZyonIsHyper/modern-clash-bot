@@ -1,8 +1,6 @@
-# py-clash-bot
+# modern-clash-bot
 
-**py-clash-bot** is an open-source automation tool that allows you to automate your Clash Royale gameplay on Windows using an emulated Android phone. The bot uses advanced image recognition, mouse control, and Android emulation to perform a comprehensive range of tasks automatically, letting you focus on strategy while it handles the daily grind.
-
-_Join our [Discord server](https://discord.gg/nqKRkyq2UU) for support, updates, and community discussions!_
+**modern-clash-bot** is a fork of the open-source automation tool https://github.com/pyclashbot/py-clash-bot/tree/master for the mobile game Clash Royal.
 
 ## ✨ Features
 
