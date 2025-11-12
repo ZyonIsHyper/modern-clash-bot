@@ -2,6 +2,8 @@
 
 **modern-clash-bot** is a fork of the open-source automation tool https://github.com/pyclashbot/py-clash-bot/ for the mobile game Clash Royal.
 
+**For an instalation guide visit the original GitHub above**
+
 ## ✨ Features
 
 ### 🎮 **Battle Automation**
